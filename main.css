@@ -1,0 +1,30 @@
+h1 {
+    font-size: xx-large;
+    font-family: 'Livvic';
+}
+h1 {
+    padding-top: 200px;
+    padding-left: 720px;
+}
+.plus {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    background-color: #4CAF50;
+    color: white;
+    position: absolute;
+    left: 750px;
+}
+.minus {
+    padding: 10px 22px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    background-color: #ff0000;
+    color: white;
+    position: absolute;
+    left: 690px;
+}
